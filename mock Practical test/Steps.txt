@@ -1,0 +1,21 @@
+1.    Load the data
+2.    Take a quick look at the data such as using head, describe, info
+3.    Split your data into training and test set (no data snooping!)
+
+4.    Explore data and visualize the data to gain insights
+	a. identify %missing values
+	b. study correlation
+	c. visualize data
+
+5.    Data Preprocessing
+	a.    Data Cleaning
+	b.    Handling Text and Categorical Data (e.g., get_dummies)
+	c.    Feature Scaling (standardize continuous values)
+
+6.    Modelling
+	a.    Apply few algorithms/models
+	b.    Select few promising ones by evaluating them using validation set
+
+7.    Fine tune the short-listed models and combine them into a great solution.
+
+8.    Evaluate Your System on the Test Set
